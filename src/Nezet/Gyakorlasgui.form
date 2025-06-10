@@ -42,7 +42,7 @@
             </MenuItem>
             <MenuItem class="javax.swing.JMenuItem" name="tavmenu">
               <Properties>
-                <Property name="text" type="java.lang.String" value="Ki tett meg a legt&#xf6;bb kilom&#xe9;tert &#xf6;sszes&#xed;tve?"/>
+                <Property name="text" type="java.lang.String" value="Kinek volt a leghosszab fuvarja?"/>
               </Properties>
               <Events>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tavmenuActionPerformed"/>

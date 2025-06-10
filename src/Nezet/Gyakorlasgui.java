@@ -167,7 +167,7 @@ public class Gyakorlasgui extends javax.swing.JFrame {
         });
         jMenu2.add(fizetesmodokMenu);
 
-        tavmenu.setText("Ki tett meg a legtöbb kilométert összesítve?");
+        tavmenu.setText("Kinek volt a leghosszab fuvarja?");
         tavmenu.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 tavmenuActionPerformed(evt);
