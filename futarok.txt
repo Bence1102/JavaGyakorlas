@@ -1,0 +1,6 @@
+KOD;DATUM;FIZETES;TAVOLSAG;OSSZEG;BORRAVALO;CIMZETT_ETELEZIK
+-----------------------------------------------------------
+FTR-001;2023.04.12.;kártya;12.4;3150;150;igen
+FTR-002;2023.06.10.;készpénz;5.2;1675;100;nem
+FTR-001;2023.06.15.;készpénz;7.6;2430;200;igen
+FTR-003;2023.12.24.;kártya;3.9;1240;0;nem
