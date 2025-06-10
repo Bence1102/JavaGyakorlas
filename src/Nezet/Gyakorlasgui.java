@@ -260,7 +260,7 @@ public class Gyakorlasgui extends javax.swing.JFrame {
 
     private void tavmenuActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_tavmenuActionPerformed
         int leghosszabbut= leghosszabbFuvar();
-        JOptionPane.showMessageDialog(rootPane,"A legtöbb kilométert az %s kódú futár tette meg (%.2f km)".formatted(gyakorlas1.get(leghosszabbut).getKod(),gyakorlas1.get(leghosszabbut).getMegtetttav()));
+        JOptionPane.showMessageDialog(rootPane,"A leghosszabb fuvarja a %s kódú futárnak volt. (%.2f km)".formatted(gyakorlas1.get(leghosszabbut).getKod(),gyakorlas1.get(leghosszabbut).getMegtetttav()));
     }//GEN-LAST:event_tavmenuActionPerformed
 
     private void idpontmenuActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_idpontmenuActionPerformed
